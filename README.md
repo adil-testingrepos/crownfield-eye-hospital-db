@@ -11,7 +11,7 @@ Run the SQL files in MySQL Workbench in the following numerical order:
 3. `03_individual_queries.sql` - Contains the 6 required individual SQL queries (Aggregate, Joins, Left Join, CTE).
 4. `04_procedure_and_trigger.sql` - Implements the stored procedure and validation trigger.
 5. `05_security_and_transactions.sql` - Defines user roles, privilege grants, and password hashing.
-
+6.  06_ERD     Conceptual and Logical ERD
 ## System Prerequisites
 - MySQL Server 8.0+
 - MySQL Workbench
